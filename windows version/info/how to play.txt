@@ -1,0 +1,23 @@
+
+
+CONTROLS
+########
+
+move left -> left key
+move right -> right key 
+shoot -> space bar
+
+
+OBJECTIVES
+##########
+
+your main objective is to protect the main ship by destroying the meteors on-coming by shooting 
+them
+
+-if the meteors get to the main ship the health bar will decrease 
+-on event of the health bar reaching zero the game will end 
+
+good luck on playing the game
+
+#made with love by ismail
+ 
